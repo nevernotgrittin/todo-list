@@ -1,2 +1,2 @@
 # todo-list
- To Do List using JS
+ To Do List (console)
